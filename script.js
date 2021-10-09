@@ -58,14 +58,14 @@ function showSlides(n) {
       document.getElementById('s_isccm2').style.color= 'white';
   }
 
-  function show_cs2018(){
+function show_it2018(){
     document.getElementById('def').style.display= 'none';
     document.getElementById('abc').style.display= 'block';
     document.getElementById('s_itccm2').style.backgroundColor= '#dcdde1';
     document.getElementById('s_itccm1').style.backgroundColor= '#2f3640';
   }
 
-  function show_cs2012(){
+  function show_it2012(){
     document.getElementById('abc').style.display= 'none';
     document.getElementById('def').style.display= 'block';
     document.getElementById('s_itccm2').style.backgroundColor= '#2f3640';
